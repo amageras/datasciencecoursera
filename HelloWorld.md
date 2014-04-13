@@ -1,7 +1,7 @@
 ## This is a markdown file
 
-git remote add origin https://github.com/username/Hello-World.git
+$ git remote add origin https://github.com/username/Hello-World.git
 # Creates a remote named "origin" pointing at your GitHub repository
 
-git push origin master
+$ git push origin master
 # Sends your commits in the "master" branch to GitHub
